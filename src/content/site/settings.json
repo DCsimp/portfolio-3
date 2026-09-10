@@ -8,18 +8,27 @@
   "columns": 3,
   "motionDefault": "full",
   "rightClickProtect": false,
-  "watermark": false,
-  "watermarkText": "",
-  "protectFromAI": false,
+  "watermark": true,
+  "watermarkText": "Neuroso",
+  "protectFromAI": true,
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "Tumblr Main",
+      "url": "https://www.tumblr.com/neuroso?source=share"
+    },
+    {
+      "label": "Tumblr Alt",
+      "url": "https://www.tumblr.com/neuroso2?source=share"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
-  "searchEnabled": false,
+  "searchEnabled": true,
   "cvAutoExhibitions": false,
   "commissionsMode": "form",
   "analyticsProvider": "none",
