@@ -51,12 +51,12 @@
       "letterSpacing": 0
     },
     "shape": {
-      "radius": 0,
+      "radius": 1,
       "borderWidth": 1,
       "shadows": "none"
     },
     "density": "airy",
-    "contentWidth": "normal",
+    "contentWidth": "wide",
     "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
@@ -69,7 +69,7 @@
       "mode": "none"
     },
     "background": {
-      "type": "solid"
+      "type": "texture"
     },
     "thumb": {
       "fit": "cover",
