@@ -51,8 +51,8 @@
       "heading": "#eaf0ff"
     },
     "type": {
-      "headingFont": "Outfit",
-      "bodyFont": "Inter",
+      "headingFont": "Hanken Grotesk",
+      "bodyFont": "Jost",
       "headingWeight": 700,
       "bodyWeight": 400,
       "baseSize": 17,
@@ -82,7 +82,7 @@
     },
     "thumb": {
       "fit": "contain",
-      "hover": "zoom"
+      "hover": "lift"
     },
     "gallery": {
       "layout": "masonry",
@@ -108,7 +108,8 @@
     },
     "footer": {
       "socials": true,
-      "credit": true
+      "credit": false,
+      "text": "Anti-AI "
     },
     "favicon": {
       "mode": "initials"
