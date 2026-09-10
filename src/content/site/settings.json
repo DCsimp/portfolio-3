@@ -31,7 +31,7 @@
   "design": {
     "preset": "monograph",
     "color": {
-      "background": "#faf8f4",
+      "background": "#000000",
       "surface": "#ffffff",
       "text": "#201d1a",
       "muted": "#7b7568",
