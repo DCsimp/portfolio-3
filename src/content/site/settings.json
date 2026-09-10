@@ -33,8 +33,8 @@
     "color": {
       "background": "#000000",
       "surface": "#ffffff",
-      "text": "#201d1a",
-      "muted": "#7b7568",
+      "text": "#ffffff",
+      "muted": "#ffffff",
       "accent": "#9a3b2e",
       "accent2": "#2f6f5e",
       "border": "#ddd6c9",
