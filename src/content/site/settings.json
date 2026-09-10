@@ -38,68 +38,68 @@
   "newsletterProvider": "netlify",
   "stockists": [],
   "design": {
-    "preset": "monograph",
+    "preset": "midnight",
     "color": {
-      "background": "#000000",
-      "surface": "#0056d6",
-      "text": "#ffffff",
-      "muted": "#d6d6d6",
-      "accent": "#0056d6",
-      "accent2": "#371a94",
-      "border": "#ddd6c9",
-      "link": "#371a94",
-      "heading": "#707070"
+      "background": "#0d1424",
+      "surface": "#141d33",
+      "text": "#eaf0ff",
+      "muted": "#8a96b3",
+      "accent": "#c3228b",
+      "accent2": "#c0a3ff",
+      "border": "#283250",
+      "link": "#5b8cff",
+      "heading": "#eaf0ff"
     },
     "type": {
-      "headingFont": "Atkinson Hyperlegible",
-      "bodyFont": "Atkinson Hyperlegible",
-      "headingWeight": 600,
+      "headingFont": "Outfit",
+      "bodyFont": "Inter",
+      "headingWeight": 700,
       "bodyWeight": 400,
-      "baseSize": 19,
+      "baseSize": 17,
       "headingTransform": "none",
-      "letterSpacing": 0
+      "letterSpacing": -0.01
     },
     "shape": {
-      "radius": 1,
+      "radius": 6,
       "borderWidth": 1,
       "shadows": "none"
     },
-    "density": "airy",
-    "contentWidth": "wide",
+    "density": "compact",
+    "contentWidth": "normal",
     "readingWidth": "relaxed",
     "motion": "smooth",
     "nav": {
-      "layout": "top"
+      "layout": "side"
     },
     "home": {
-      "landing": "about"
+      "landing": "work"
     },
     "logo": {
       "mode": "none"
     },
     "background": {
-      "type": "texture"
+      "type": "solid"
     },
     "thumb": {
-      "fit": "cover",
+      "fit": "contain",
       "hover": "zoom"
     },
     "gallery": {
-      "layout": "grid",
+      "layout": "masonry",
       "size": "small",
       "gutter": "normal",
       "caption": "below",
       "cardStyle": "card",
       "captionDetail": "full",
       "captionOverlay": "surface",
-      "featureFirst": false,
+      "featureFirst": true,
       "adaptiveSpans": false,
       "click": "lightbox",
       "filters": false
     },
     "lightbox": {
       "transition": "fade",
-      "zoom": false
+      "zoom": true
     },
     "hero": {
       "enabled": false,
@@ -115,14 +115,14 @@
     },
     "pages": {
       "about": true,
-      "contact": false,
-      "cv": false,
-      "press": false,
+      "contact": true,
+      "cv": true,
+      "press": true,
       "exhibitions": false,
       "news": false,
       "available": false,
       "presskit": false,
-      "commissions": true,
+      "commissions": false,
       "shop": false,
       "projects": false,
       "stockists": false
