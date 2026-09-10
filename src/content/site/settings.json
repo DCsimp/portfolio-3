@@ -41,14 +41,14 @@
     "preset": "monograph",
     "color": {
       "background": "#000000",
-      "surface": "#ffffff",
+      "surface": "#0056d6",
       "text": "#ffffff",
-      "muted": "#ffffff",
-      "accent": "#9a3b2e",
+      "muted": "#d6d6d6",
+      "accent": "#0056d6",
       "accent2": "#2f6f5e",
       "border": "#ddd6c9",
-      "link": "#9a3b2e",
-      "heading": "#201d1a"
+      "link": "#0056d6",
+      "heading": "#707070"
     },
     "type": {
       "headingFont": "Atkinson Hyperlegible",
