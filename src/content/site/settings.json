@@ -31,22 +31,22 @@
   "design": {
     "preset": "monograph",
     "color": {
-      "background": "#000000",
+      "background": "#faf8f4",
       "surface": "#ffffff",
-      "text": "#ffffff",
+      "text": "#201d1a",
       "muted": "#7b7568",
-      "accent": "#c2c2c2",
-      "accent2": "#999999",
-      "border": "#474747",
+      "accent": "#9a3b2e",
+      "accent2": "#2f6f5e",
+      "border": "#ddd6c9",
       "link": "#9a3b2e",
       "heading": "#201d1a"
     },
     "type": {
-      "headingFont": "Anton",
-      "bodyFont": "Archivo",
+      "headingFont": "Atkinson Hyperlegible",
+      "bodyFont": "Atkinson Hyperlegible",
       "headingWeight": 600,
       "bodyWeight": 400,
-      "baseSize": 18,
+      "baseSize": 19,
       "headingTransform": "none",
       "letterSpacing": 0
     },
